@@ -1,0 +1,37 @@
+/*body {
+    background-color: darkgray;
+}*/
+
+/*.navbar{
+    font-size: 35px; color: black; display: inline;
+    border-width: 25%; border: 2px solid  black; padding: 10px;   
+}*/
+
+a.navbar {
+    font-size: 50px; color: black; 
+}
+
+
+a.nav-link { 
+    font-size: 25px; color: lightgray; 
+}
+
+
+.container {
+    width: 75%;
+}
+
+h1 {
+    font-weight: lighter; font-size: 25px; 
+}
+
+h2 {
+    font-size: 30px; font-weight: lighter; 
+}
+.SEO {
+    background-color: rgba(0,20,30,0.5); color: white;
+    border: solid 1px black; 
+    text-align: right; font-size: 40px; 
+    margin-top:52%; margin-left: 57%; width: 80%; margin-bottom: 0%;
+   
+}
