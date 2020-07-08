@@ -35,3 +35,11 @@ h2 {
     margin-top:52%; margin-left: 57%; width: 80%; margin-bottom: 0%;
    
 }
+.card {
+    background-color: darkgrey;
+    border: 2px solid black;
+    width: 45px;
+    height: 200px;
+    margin-top: 20px;
+    overflow: auto;
+}
