@@ -7,6 +7,10 @@ a.nav-link {
     font-size: 25px; color: lightgray; 
     font-family: cursive;
 }
+.container-port {
+    width: 1300px;
+    background-color: gainsboro;
+}
 
 .container {
     width: 55%;
@@ -38,15 +42,22 @@ p {
     font-size: 25px;
 }
 
-h4 {
-    font-size: 35px;
+ul {
+    list-style-type: none;
 }
 h1 {
     font-weight: lighter; font-size: 60px; text-align: center;
 }
-
 h2 {
     font-size: 30px; font-weight: lighter; 
+}
+
+h3, h5, h6 {
+    font-size: 30px;
+}
+
+h4 {
+    font-size: 35px;
 }
 
 .card {
@@ -55,6 +66,5 @@ h2 {
     width: 45px;
     height: 200px;
     margin-top: 20px;
-    overflow: auto;
-    
+    overflow: auto;   
 }
